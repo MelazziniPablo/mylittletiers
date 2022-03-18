@@ -1,2 +1,2 @@
-# mylittletiers
-First three tiered application
+# littletiers
+little tiers
